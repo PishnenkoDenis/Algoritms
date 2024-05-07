@@ -1,0 +1,12 @@
+{
+  "name": "algoritms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linarSearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./Sort/mergeSort"
+  },
+  "author": "",
+  "license": "ISC"
+}
